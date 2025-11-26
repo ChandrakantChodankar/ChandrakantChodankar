@@ -3,8 +3,6 @@
 
 <img align="right" alt="seb" width="400" src="https://media.tenor.com/qNjr24BlyOcAAAAC/sebastian-vettel.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakantchodankar&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakantchodankar" /> </p>
-
 <p align="left"> <a href="https://twitter.com/chodankar_218" target="blank"><img src="https://img.shields.io/twitter/follow/chodankar_218?logo=twitter&style=for-the-badge" alt="chodankar_218" /></a> </p>
 
 - ⚡ Fun fact **Scuderia Ferrari Formula 1 ❤️**
